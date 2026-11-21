@@ -1,0 +1,139 @@
+### promotional website for **Semester III | Course Code:** 1BCS305 Data Structures and Applications
+
+### Previous Year Solved Questions 
+| 1BCS305 Data Structures and Applications | Dec25-Jan26,Jun-July26 | Qp and Answer |
+| --- | --- | --- |
+| M1| 1BCS305 Data Structures and Applications| Dec25-Jan26 [Download link]([]) 
+Jun-July26|[Download link](]()) |
+
+### All Modules Notes 
+|1BCS305 Data Structures and Applications | Topic | Notes |
+| --- | --- | --- |
+| M1| Introduction, Arrays, Structures and Sparse Matrices| [Download link]([)) |
+| M2| Stacks and Queues| \[Download link\]([)) |
+| M3| Circular Queues and Linked Lists| \[Download link\]() |
+| M4| Trees| \[Download link\]([]()) |
+| M5|Graphs, Hashing and Priority Queues| \[Download link\]([]()) |
+
+### All Module classroom presentation
+|1BCS305 Data Structures and Applications | Topic | Classroom Presenatation |
+| --- | --- | --- |
+| M1| Introduction, Arrays, Structures and Sparse Matrices| [Download link]([)) |
+| M2| Stacks and Queues| \[Download link\]([)) |
+| M3| Circular Queues and Linked Lists| \[Download link\]() |
+| M4| Trees| \[Download link\]([]()) |
+| M5|Graphs, Hashing and Priority Queues| \[Download link\]([]()) |
+
+### All Module Videos
+### Module 1: Introduction, Arrays, Structures and Sparse Matrices  (08 hours | CO1)
+| Video Lecture | Topic | Video |
+| --- | --- | --- |
+| M1-L1 | Introduction to data structures; classification| \[Watch on YouTube\]([]()) |
+| M1-L2 | Pointers and dynamic memory allocation| \[Watch on YouTube\]([]()) |
+| M1-L3 | Arrays and dynamically allocated arrays | \[Watch on YouTube\]([]()). |
+| M1-L4 | Structures and unions | \[Watch on YouTube\]([](https://youtu.be/gEZyfIrpFH8)). |
+| M1-L5 | Polynomials: representation | \[Watch on YouTube\]([](https://youtu.be/mOrGzbuBpc8)). |
+| M1-L6 | Polynomials: operations| \[Watch on YouTube\]([https://youtu.be/ci-K7ykc5Zs]). |
+| M1-L7 | Sparse matrices: representation| \[Watch on YouTube\]([https://youtu.be/nPrKR4R-swk]). |
+| M1-L8 | Transposing a sparse matrix; consolidation| \[Watch on YouTube\]([https://youtu.be/WWUtscdEwTE]). |
+
+### Module 2: Stacks and Queues   (08 hours | CO2)
+| Video Lecture | Topic | Video |
+| --- | --- | --- |
+| M2-L1 | Stacks | \[Watch on YouTube\]([https://youtu.be/hrOlROaBC6U] |
+| M2-L2 | Array representation of stacks.| \[Watch on YouTube\]([)) |
+| M2-L3 | Stack applications | \[Watch on YouTube\]([)). |
+| M2-L4 | Infix to postfix conversion | \[Watch on YouTube\]([)). |
+| M2-L5 | Evaluation of postfix expression | \[Watch on YouTube\]([])). |
+| M2-L6 | Queues| \[Watch on YouTube\]([]). |
+| M2-L7 | Queue operations | \[Watch on YouTube\]([)). |
+| M2-L8 | Consolidation and IA-1 preparation | \[Watch on YouTube\]([)). |
+
+### Module 3: Circular Queues and Linked Lists   (08 hours | CO3)
+| Video Lecture | Topic | Video |
+| --- | --- | --- |
+| M3-L1 | IoT platforms design methodology | \[Watch on YouTube\]([https://youtu.be/xG7G2pkBH1w](https://youtu.be/xG7G2pkBH1w)) |
+| M3-L2 | Design methodology (continued)| \[Watch on YouTube\]([https://youtu.be/xG7G2pkBH1w](https://youtu.be/xG7G2pkBH1w)) |
+| M3-L3 | Case study IoT system for weather monitoring.| \[Watch on YouTube\]([https://youtu.be/ZqetBQXKEEk](https://youtu.be/ZqetBQXKEEk)). |
+| M3-L4 | Python for IoT | \[Watch on YouTube\]([https://youtu.be/hUiV8Drmfx4](https://youtu.be/hUiV8Drmfx4)). |
+| M3-L5 | Python: control flow and functions | \[Watch on YouTube\]([https://youtu.be/hUiV8Drmfx4](https://youtu.be/hUiV8Drmfx4)). |
+| M3-L6 | Python: modules, packages and file handling| \[Watch on YouTube\]([https://youtu.be/ekBe02vO41Y](https://youtu.be/ekBe02vO41Y)). |
+| M3-L7 | Python: date/time operations| \[Watch on YouTube\]([https://youtu.be/c8KmlllP9AE](https://youtu.be/c8KmlllP9AE)). |
+| M3-L8 | Module 3 revision: Python programs for IoT; class test. | \[Watch on YouTube\]([https://youtu.be/GWd4TSkDQZ8](https://youtu.be/GWd4TSkDQZ8)). |
+
+### Module 4: Trees  (08 hours | CO2 and CO3)
+| Video Lecture | Topic | Video |
+| --- | --- | --- |
+| M4-L1 | What is an IoT device | \[Watch on YouTube\]([https://youtu.be/7v3VHTSiFJY](https://youtu.be/7v3VHTSiFJY)) |
+| M4-L2 | Linux on Raspberry Pi| \[Watch on YouTube\]([https://youtu.be/\_t5-WB2UIvA](https://youtu.be/_t5-WB2UIvA)) |
+| M4-L3 | Raspberry Pi interfaces (continued) | \[Watch on YouTube\]([https://youtu.be/ywGKTDwxT7A](https://youtu.be/ywGKTDwxT7A)). |
+| M4-L4 | Programming Raspberry Pi with Python:controlling | \[Watch on YouTube\]([https://youtu.be/ViWrW7qEUGY](https://youtu.be/ViWrW7qEUGY)). |
+| M4-L5 | Programming Raspberry Pi with Python: interfacing  | \[Watch on YouTube\]([https://youtu.be/AMJ-yp4bOsQ](https://youtu.be/AMJ-yp4bOsQ)). |
+| M4-L6 | Case study: home automation| \[Watch on YouTube\]([https://youtu.be/tkJMTDtI958?si=7ayzKhF3zsdF64Sk](https://youtu.be/tkJMTDtI958?si=7ayzKhF3zsdF64Sk)). |
+| M4-L7 | Case study: smart cities | \[Watch on YouTube\]([https://youtu.be/f819iE8tvN0](https://youtu.be/f819iE8tvN0)). |
+| M4-L8 | Case study: agriculture | \[Watch on YouTube\]([https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc)). |
+
+### Module 5: Graphs, Hashing and Priority Queues     (08 hours | CO5)
+| Video Lecture | Topic | Video |
+| --- | --- | --- |
+| M5-L1 | Data analytics for IoT | \[Watch on YouTube\]([https://youtu.be/\_iOtligzzkU](https://youtu.be/_iOtligzzkU)) |
+| M5-L2 | Apache Hadoop| \[Watch on YouTube\]([https://youtu.be/5xbHETP2gMI](https://youtu.be/5xbHETP2gMI)) |
+| M5-L3 | Using Hadoop MapReduce for batch data analytics | \[Watch on YouTube\]([https://youtu.be/GLERjt1oU3Y](https://youtu.be/GLERjt1oU3Y)). |
+| M5-L4 | MapReduce worked example on sensor/weather data | \[Watch on YouTube\]([https://youtu.be/UQt1TSo1s\_g](https://youtu.be/UQt1TSo1s_g)). |
+| M5-L5 | Apache Oozie  | \[Watch on YouTube\]([https://youtu.be/Fgi1XNGPYp4](https://youtu.be/Fgi1XNGPYp4)). |
+| M5-L6 | Apache Spark| \[Watch on YouTube\]([https://youtu.be/fogRHtAfQMo](https://youtu.be/fogRHtAfQMo)). |
+| M5-L7 | Apache Storm | \[Watch on YouTube\]([https://youtu.be/MO-56ARx3f0](https://youtu.be/MO-56ARx3f0)). |
+| M5-L8 | Using Apache Storm for real-time data analysis | \[Watch on YouTube\]([https://youtu.be/M5VkaV9cfBI](https://youtu.be/M5VkaV9cfBI)). |
+
+### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
+| Lecture | Topic | Laboratory Manual  |
+| --- | --- | --- |
+| L| Data Structures and Applications Practical Component - Experiment-wise CO Mapping| \[Download link\]() |
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| E1 | Blink 5 LEDs back and forth | \[Watch on YouTube\]([https://youtu.be/0Ot5VvkmoZg](https://youtu.be/0Ot5VvkmoZg)) |
+| E2 | Interface a relay with Arduino board.| \[Watch on YouTube\]([https://youtu.be/a7aeuwydNfU](https://youtu.be/a7aeuwydNfU)) |
+| E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | \[Watch on YouTube\]([https://youtu.be/eTmBRBoZbUc](https://youtu.be/eTmBRBoZbUc)). |
+| E4 | Control a DC motor with Arduino board. | \[Watch on YouTube\]([https://youtu.be/GdV6ge1zVk0](https://youtu.be/GdV6ge1zVk0)). |
+| E5 | Deploy a smart street light system using LDR sensor. | \[Watch on YouTube\]([https://youtu.be/AyZZt-dlJuY](https://youtu.be/AyZZt-dlJuY)). |
+| E6 | Classify dry and wet waste with the moisture sensor (DHT22).| \[Watch on YouTube\]([https://youtu.be/k\_qOGCSNya8](https://youtu.be/k_qOGCSNya8)). |
+| E7 | Read the pH value of various substances such as milk, lime and water. | \[Watch on YouTube\]([https://youtu.be/j3MrrR-3oUI](https://youtu.be/j3MrrR-3oUI)). |
+| E8 | Detect gas leakage in the surrounding environment.| \[Watch on YouTube\]([https://youtu.be/R0wCpQlyg9Q](https://youtu.be/R0wCpQlyg9Q)). |
+| E9 | Demonstrate weather station readings using Arduino.| \[Watch on YouTube\]([https://youtu.be/zMC8TAYFpNU](https://youtu.be/zMC8TAYFpNU)). |
+| E10 |Set up a UART protocol and pass a string through the protocol.| \[Watch on YouTube\]([https://youtu.be/kubKmRc34gE](https://youtu.be/kubKmRc34gE)). |
+| E11 |Water level depth detection system using ultrasonic sensor.| \[Watch on YouTube\]([https://youtu.be/7s8dfufTmOw](https://youtu.be/7s8dfufTmOw)). |
+| E12 |Simulate interfacing with the keypad module to record keystrokes. | \[Watch on YouTube\]([https://youtu.be/g0muVoiClGc](https://youtu.be/g0muVoiClGc)). |
+
+ More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES  Data Structures and Applications Semester III | Course Code: 1BCS305 | Credits: 04
+
+🚀 How to Use This Repository
+
+Pick a module from the index above and watch the lectures in session order.
+
+Practise the tutorial problems and try the same constructions.
+
+Check the mapped CO and Bloom level of each topic to focus your exam preparation.
+
+Revisit the module revision and quiz session before each IA test and the SEE.
+
+🤝 Contributing
+
+Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
+
+🔗 Connect
+
+▶️ YouTube: \[[https://www.youtube.com/@Dr.LokeshMR](https://www.youtube.com/@Dr.LokeshMR)\]
+
+💼 LinkedIn: \[[https://www.linkedin.com/in/lokesh-m-r-b6880b169/](https://www.linkedin.com/in/lokesh-m-r-b6880b169/)\]
+
+📸 Instagram: \[[https://www.instagram.com/lokeshmrmysore/](https://www.instagram.com/lokeshmrmysore/)\]
+
+📢 Telegram: \[[https://web.telegram.org/a/#-1003930242341](https://web.telegram.org/a/#-1003930242341)\]
+
+💬 WhatsApp Channel: \[[https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o](https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o)\]
+
+⚠️ Disclaimer
+
+These materials are for educational use and follow the VTU Scheme 2022 BCS701 syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
+
+⭐ If this helped you, please star the repository and share it with your classmates!
