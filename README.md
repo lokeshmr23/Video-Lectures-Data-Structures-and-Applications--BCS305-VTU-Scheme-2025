@@ -42,7 +42,7 @@ Jun-July26|[Download link](]()) |
 | --- | --- | --- |
 | M2-L1 | Stacks | \[Watch on YouTube\]([https://youtu.be/hrOlROaBC6U] |
 | M2-L2 | Array representation of stacks.| \[Watch on YouTube\]([https://youtu.be/a-XTzVRx0Tk] |
-| M2-L3 | Stack applications | \[Watch on YouTube\]([)). |
+| M2-L3 | Stack applications | \[Watch on YouTube\]([https://youtu.be/AlE6sMkTN9s])). |
 | M2-L4 | Infix to postfix conversion | \[Watch on YouTube\]([)). |
 | M2-L5 | Evaluation of postfix expression | \[Watch on YouTube\]([])). |
 | M2-L6 | Queues| \[Watch on YouTube\]([]). |
